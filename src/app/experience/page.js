@@ -18,7 +18,7 @@
              , managing tarvel schedules, maintaning meetion minute, setting up online comfrencem answering phone call, effectively exchange
              information between management level and the operation team, and also report department to department ablut the actual
              situations, maintaning good relation between clients and orgnization, exchange information from customers to operation team
-             so as to meet the need of the customers and to help solve the customers' problem effectively.
+             so as to meet the need of the customers and to help solve the customers&apos; problem effectively.
 
 
           </p>
