@@ -2,12 +2,12 @@
  
  export default function Experience() {
    return (
-     <div className='h-screen px-3 md:px-28 pt-20'> 
+     <div className='h-screen px-6 md:px-28 pt-20'> 
       <h1 className='text-xl font-bold'>
           Experience
       </h1>
        <div className='mt-3 mr-0'> 
-          <p className='leading-8'>
+          <p className='leading-8' align="justify">
           &emsp; &emsp; &emsp; Adminstration is one of the  primary  sectors such as  finance and merketing,
              of an orgnization. Adminstrative role like coordination, communication, record-keeping, 
              resource allocation, providing support to a team, is very crutial to ensure smooth operation.
