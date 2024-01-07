@@ -2,7 +2,7 @@
  
  export default function Experience() {
    return (
-     <div className='h-screen px-28 pt-20'> 
+     <div className='h-screen px-3 md:px-28 pt-20'> 
       <h1 className='text-xl font-bold'>
           Experience
       </h1>
