@@ -10,7 +10,7 @@ export default function Education() {
          Educational background
      </h1>
       <div className='mt-3 mr-0 text-lg'> 
-         <div className='leading-8' align="justify">
+         <div className='leading-8'>
          &emsp; &emsp; &emsp; I have successfully graduated from Technological University
          with a degree in <span className='text-blue-500'>Bachelor of Engineering  Electronic Communication</span>. And I have 
          accomplished for the following certificate.

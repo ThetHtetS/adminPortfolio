@@ -7,11 +7,11 @@
           Experience
       </h1>
        <div className='mt-3 mr-0 text-xl'> 
-          <p className='leading-8' align="justify">
+          <p className='leading-8' >
           &emsp; &emsp; &emsp; Administration is one of the  primary  sectors such as  finance and marketing,
              of an organization. Administrative role like <span className='text-blue-600'>coordination, communication, record-keeping, 
              resource allocation, providing support</span> to a team, is very crutial to ensure smooth operation.
-             It takes Administrator strong organizational skills, knowledge, communication, to be effective
+             It takes administrator strong organizational skills, knowledge, communication, to be effective
              and to gain achievement of an entire organization. <br />
              &emsp; &emsp; &emsp; <span className='text-blue-600'>As I have been working as Administrator</span> for very long, I have deep understanding of administrative 
              role and how important it is, to achieve the goal of the organization. I have experience in coordinating appointment
