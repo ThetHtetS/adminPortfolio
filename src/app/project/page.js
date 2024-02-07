@@ -6,10 +6,11 @@ export default function Project() {
      <h1 className='text-xl font-bold'>
          Project I have involved
      </h1>
-      <div className='mt-3 mr-0'> 
+      <div className='md:text-lg mt-3 mr-0'> 
          <p className='leading-8'>
          &emsp; &emsp; &emsp;
-         Yoma Bank
+          Generator service contract Project for Yoma Bank located nationwide in Myanmar and Myanmar Carlsberg CO.LTD<br />
+          
 
 
          </p>

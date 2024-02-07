@@ -3,10 +3,10 @@
  export default function Experience() {
    return (
      <div className='h-auto px-6 md:px-28 pt-20'> 
-      <h1 className='text-xl font-bold'>
+      <h1 className='md:text-xl font-bold'>
           Experience
       </h1>
-       <div className='mt-3 mr-0 text-xl'> 
+       <div className='mt-3 mr-0 md:text-xl'> 
           <p className='leading-8' >
           &emsp; &emsp; &emsp; Administration is one of the  primary  sectors such as  finance and marketing,
              of an organization. Administrative role like <span className='text-blue-600'>coordination, communication, record-keeping, 
@@ -23,15 +23,15 @@
              
           </p>
        </div>
-       <div className='mt-12 text-lg'>
-       <h1 className='text-xl font-bold'>
+       <div className='mt-12 md:text-lg'>
+       <h1 className='md:text-xl font-bold'>
           Service Administarator  &nbsp; &nbsp; &nbsp; &lt;2021-Present&gt;
       </h1>
       <div>PTI Myanmar Co.,ltd (Generator), &lt;Yangon,Myanmar&gt;
            PTI Myanmar Co., Ltd specializes in power generation solutions, offering comprehensive services
            for a diverse clientele across multiple sectors within Myanmar.</div>
        </div>
-       <div className='text-xl ml-6 mt-6 space-y-3 pb-24'>
+       <div className='md:text-xl ml-6 mt-6 space-y-3 pb-24'>
         <div>
         * Lead customer service operations, effectively directing a diverse team to manage end-to-end
         service administration &nbsp;&nbsp;&nbsp;and client engagement for a major power generation company in

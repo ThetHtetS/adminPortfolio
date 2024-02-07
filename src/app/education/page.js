@@ -9,7 +9,7 @@ export default function Education() {
      <h1 className='text-xl font-bold'>
          Educational background
      </h1>
-      <div className='mt-3 mr-0 text-lg'> 
+      <div className='mt-3 mr-0 md:text-lg'> 
          <div className='leading-8'>
          &emsp; &emsp; &emsp; I have successfully graduated from Technological University
          with a degree in <span className='text-blue-500'>Bachelor of Engineering  Electronic Communication</span>. And I have 
@@ -24,7 +24,7 @@ export default function Education() {
          </div>
       </div>
       <h1 className='text-xl font-bold pt-3'>KEY SKILLS</h1>
-      <div className='leading-8 text-lg' align="justify">
+      <div className='leading-8 md:text-lg' align="justify">
           Customer Relationship management (CRM), Service Operation Management, Work Order Processing,
           Stragic Planning, MS Office Suite Proficiency, Workflow Optimization, Quality Control Protocols, Financial Reporting,
           Cash Handling, Inventory Management, MYOB, Technical Suppport, Data Analysis, Micorsoft Excel, Process Improvement

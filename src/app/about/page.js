@@ -17,28 +17,30 @@ export default function About() {
       Mobile&nbsp;&nbsp;&nbsp; +959975795804 <br />
       Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; khaingthandarmaung1@gmail.com
      </div>
-     <div className='flex gap-3 pb-24'>
-      <div>
+     <div className=' pb-24'>
+     <div className='flex gap-3'>
       <div>Languages</div> 
-      <div>Nationality </div>
+      <div className='ml-14'>: English 4 Skill, Burmese (Native) </div>
+     </div>
+     <div className='flex gap-3'>
+      <div >Nationality </div>
+      <div className='ml-14'>  : &lt;Burmese, Myanmar&gt;</div>
+     </div>
+      <div className='flex gap-3'>
       <div>  Expected Salary </div>
-      <div> Residential Status </div>
-      <div> Availability </div>
-      <div></div>
-
+      <div className='ml-3'> : US$ 2500 </div>
       </div>
-      <div>
-      <div>: English 4 Skill, Burmese (Native) </div>
-      <div>  : &lt;Burmese, Myanmar&gt;</div>
-      <div> : 2500 </div>
+      <div className='flex gap-3'>
+      <div> Residential Status </div>
       <div>: SPASS</div>
-      <div>:Immediately</div>
-      <div></div>
-         
-       
-        
-         
-         
+      </div>
+      <div className='flex gap-3'>
+      <div> Availability </div>
+      <div className='ml-14'>:Immediately</div>
+      </div>
+
+      
+      <div>    
       </div>
                
      </div>
@@ -47,5 +49,6 @@ export default function About() {
       </div>
      </div>
     </div>
+    
   )
 }
