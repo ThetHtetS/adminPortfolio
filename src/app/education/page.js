@@ -5,7 +5,7 @@ import data from './../../../public/dataAnalytic.jpg'
 import Image from 'next/image'
 export default function Education() {
   return (
-    <div className='h-auto px-6 md:px-28 pt-20' align="center"> 
+    <div className='h-auto px-6 md:px-28 pt-20' > 
      <h1 className='text-xl font-bold'>
          Educational background
      </h1>

@@ -2,7 +2,7 @@
  
  export default function Experience() {
    return (
-     <div className='h-auto px-6 md:px-28 pt-20' align="center"> 
+     <div className='h-auto px-6 md:px-28 pt-20' > 
       <h1 className='md:text-xl font-bold'>
           Experience
       </h1>
