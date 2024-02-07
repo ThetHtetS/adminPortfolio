@@ -5,7 +5,7 @@ import data from './../../../public/dataAnalytic.jpg'
 import Image from 'next/image'
 export default function Education() {
   return (
-    <div className='h-auto px-6 md:px-28 pt-20'> 
+    <div className='h-auto px-6 md:px-28 pt-20' align="center"> 
      <h1 className='text-xl font-bold'>
          Educational background
      </h1>
@@ -24,7 +24,7 @@ export default function Education() {
          </div>
       </div>
       <h1 className='text-xl font-bold pt-3'>KEY SKILLS</h1>
-      <div className='leading-8 md:text-lg' align="justify">
+      <div className='leading-8 md:text-lg' align="center">
           Customer Relationship management (CRM), Service Operation Management, Work Order Processing,
           Stragic Planning, MS Office Suite Proficiency, Workflow Optimization, Quality Control Protocols, Financial Reporting,
           Cash Handling, Inventory Management, MYOB, Technical Suppport, Data Analysis, Micorsoft Excel, Process Improvement
